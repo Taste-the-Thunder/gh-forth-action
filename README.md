@@ -37,3 +37,8 @@ but when added `-ignore`, it simply ignore if there are some changes on that fil
 ### fork
 
 Understanding fork things, 
+
+
+### skip
+
+Simply added `[skip ci]` on commit message so that it will skip to exicute workflow.
